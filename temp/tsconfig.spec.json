@@ -3,7 +3,6 @@
   "compilerOptions": {
     "baseUrl": "",
     "declaration": false,
-    "emitDecoratorMetadata": true,
     "typeRoots": [
       "../node_modules/@types"
     ]
